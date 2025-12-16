@@ -181,5 +181,10 @@
   },
   "resolutions": {
     "jackspeak": "2.1.1"
+  },
+  "pnpm": {
+    "overrides": {
+      "sharp": "0.33.1"
+    }
   }
 }
